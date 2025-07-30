@@ -1,3 +1,7 @@
+[⬇️ Download Latest Release](https://github.com/spahnrl/DupeDoctor/releases/latest)
+
+> ⚠️ **Use with caution:** DupeDoctor moves files to a `_quarantine_*` folder based on your selections. Review contents before deleting. Use Undo when in doubt.
+
 Here are your three final project files, ready to drop into `prj_dup_file_check/` before uploading to GitHub:
 
 ---

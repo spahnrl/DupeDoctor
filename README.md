@@ -1,5 +1,10 @@
 [⬇️ Download Latest Release](https://github.com/spahnrl/DupeDoctor/releases/latest)
 
+[![GitHub Release](https://img.shields.io/github/v/release/spahnrl/DupeDoctor)](https://github.com/spahnrl/DupeDoctor/releases)
+[![License](https://img.shields.io/github/license/spahnrl/DupeDoctor)](https://github.com/spahnrl/DupeDoctor/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/spahnrl/DupeDoctor)](https://github.com/spahnrl/DupeDoctor/issues)
+
+
 > ⚠️ **Use with caution:** DupeDoctor moves files to a `_quarantine_*` folder based on your selections. Review contents before deleting. Use Undo when in doubt.
 
 Here are your three final project files, ready to drop into `prj_dup_file_check/` before uploading to GitHub:
@@ -82,4 +87,5 @@ Connect: [LinkedIn](https://www.linkedin.com/in/rick-spahn-14ba761/)
 
 
 📝 Add download link and usage warning to README
+✨ Add GitHub badges to README
 

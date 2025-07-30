@@ -79,3 +79,7 @@ prj_dup_file_check/
 **Rick Spahn**
 Built as part of `CV_Pipeline` and `prj_DupeDoctor_App_DuplicateFile_Mover`
 Connect: [LinkedIn](https://www.linkedin.com/in/rick-spahn-14ba761/)
+
+
+📝 Add download link and usage warning to README
+

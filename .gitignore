@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+*.DS_Store
+
+# IDE settings
+.idea/
+.vscode/
+
+# Python virtual env
+.venv/
+
+# Quarantine output folders
+_quarantine_*/
+
+# Logs
+*.log
+dupe_log.csv
